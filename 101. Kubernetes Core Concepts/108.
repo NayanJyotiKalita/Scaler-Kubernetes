@@ -1,0 +1,17 @@
+# Check status of all nodes in Kubernetes
+
+## Q. In a Kubernetes cluster, which command would you use to check the status of all nodes?
+
+***Choose the correct answer from below:***
+
+  - kubectl status nodes
+
+  - kubectl check nodes
+
+  - kubectl describe nodes
+
+  - kubectl get nodes
+
+
+## Answer
+kubectl get nodes
