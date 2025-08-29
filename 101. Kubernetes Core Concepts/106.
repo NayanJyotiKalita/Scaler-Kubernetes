@@ -1,0 +1,17 @@
+# Role of kube-scheduler
+
+## Q. What does the kube-scheduler do in a Kubernetes cluster?
+
+***Choose the correct answer from below:***
+
+  - Manages the networking rules for Pods.
+
+  - Assigns Pods to suitable worker nodes.
+
+  - Stores information about the cluster’s state.
+
+  - Ensures containers are running in a Pod.
+
+
+## Answer
+*Assigns Pods to suitable worker nodes*
