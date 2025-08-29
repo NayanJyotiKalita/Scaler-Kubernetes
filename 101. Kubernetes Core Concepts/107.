@@ -1,0 +1,17 @@
+# Tool to run Kubernetes in Docker containers
+
+## Q. Which tool allows you to run Kubernetes clusters inside Docker containers for local testing?
+
+***Choose the correct answer from below:***
+
+  - Minikube
+
+  - Docker Swarm
+
+  - kind
+
+  - VirtualBox
+
+
+## Answer
+*kind*
