@@ -1,0 +1,16 @@
+Toleration in Kubernetes
+
+Which effect ensures that a Pod is not scheduled on a node unless it has a matching toleration?
+
+Choose the correct answer from below:
+
+PreferNoSchedule
+
+NoExecute
+
+NoSchedule
+
+AlwaysSchedule
+
+Answer
+NoSchedule
