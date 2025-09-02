@@ -1,0 +1,16 @@
+# Resources and Limits in Kubernetes
+
+## Q. What is the purpose of resource requests and limits in Kubernetes?
+
+***Choose the correct answer from below:***
+
+  - To manage Service Accounts.
+
+  - To ensure Pods have sufficient resources and to prevent resource starvation.
+
+  - To define environment variables.
+
+  - To manage network policies.
+
+## Answer
+*To ensure Pods have sufficient resources and to prevent resource starvation*
