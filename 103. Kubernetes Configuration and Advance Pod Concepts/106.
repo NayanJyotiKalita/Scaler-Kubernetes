@@ -1,0 +1,16 @@
+# Service Accounts in Kubernetes
+
+## Q. Which of the following is a benefit of using Service Accounts in Kubernetes?
+
+***Choose the correct answer from below:***
+
+  - Improved data persistence.
+
+  - Secure access to the Kubernetes API and resources.
+
+  - Enhanced container performance.
+
+  - Simplified Pod deployment.
+
+## Answer
+*Secure access to the Kubernetes API and resources*
