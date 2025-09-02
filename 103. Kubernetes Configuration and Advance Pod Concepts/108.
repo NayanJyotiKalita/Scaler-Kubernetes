@@ -1,0 +1,16 @@
+# imagePullSecrets Field in Kubernetes
+
+## Q. What is the purpose of the imagePullSecrets field in a Service Account?
+
+***Choose the correct answer from below:***
+
+  - To define network policies for the Pod.
+
+  - To store non-confidential data for the Pod.
+
+  - To authenticate with private Docker registries.
+
+  - To specify resource limits for the Pod.
+
+## Answer
+*To authenticate with private Docker registries*
