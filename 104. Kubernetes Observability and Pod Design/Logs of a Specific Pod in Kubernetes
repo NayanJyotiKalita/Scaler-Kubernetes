@@ -1,0 +1,17 @@
+# Logs of a Specific Pod in Kubernetes
+
+## Q. Which command is used to view the logs of a specific pod in Kubernetes?
+
+***Choose the correct answer from below:***
+
+  - kubectl get logs
+
+  - kubectl describe logs
+
+  - kubectl logs
+
+  - kubectl fetch logs 
+
+
+## Answer
+*kubectl logs*
