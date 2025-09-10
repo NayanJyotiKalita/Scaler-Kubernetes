@@ -1,0 +1,16 @@
+# Field in Network Policy
+
+## Q. Which field in a Network Policy is used to specify the pods to which the policy applies?
+
+***Choose the correct answer from below:***
+
+  - ingress
+
+  - podSelector
+
+  - namespaceSelector
+
+  - egress  
+
+## Answer
+*podSelector*
