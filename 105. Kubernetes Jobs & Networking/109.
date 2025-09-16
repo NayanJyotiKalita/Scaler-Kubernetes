@@ -1,0 +1,16 @@
+# Kubernetes Service
+
+## What does setting clusterIP to None do in a Kubernetes service?
+
+***Choose the correct answer from below:***
+
+  - Exposes the service externally
+
+  - Disables load balancing
+
+  - Creates a Headless Service for direct pod access
+
+  - Enables NodePort access
+
+## Answer
+Creates a Headless Service for direct pod access
